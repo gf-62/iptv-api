@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251023083834 +0800">
+<tv date="20251023103753 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -12515,6 +12515,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251023135300 +0800" stop="20251023143300 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251023143300 +0800" stop="20251023155200 +0800">
+		<title lang="zh">食人岛</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251023155200 +0800" stop="20251023162100 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="攀枝花新闻综合">
 		<display-name lang="zh">攀枝花新闻综合</display-name>
@@ -30605,6 +30611,9 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251023135800 +0800" stop="20251023144800 +0800">
 		<title lang="zh">滋得洛夫俄罗斯白桦茸小分子精片-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251023144800 +0800" stop="20251023161400 +0800">
+		<title lang="zh">涉嫌之人</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
